@@ -42,13 +42,13 @@ The EDA was done to understand the distribution of the dataset and the correlati
 
 the following were observed:-
 
-![image info](Capture.JPG)
+![image info](Capture.PNG)
 
 Top 5 most frequent ages are 57, 60, 54, 55, 50
 
 Most of the patients lie between the age group 22 to 77
 
-![image info](Heat.JPG)
+![image info](Heat.PNG)
 
 IC_13 and IC_14 has a correlation value as high as 0.55
 
